@@ -1,0 +1,10 @@
+D:\Visual Studio 2012\Projects\MicroTimerStuff\bin\Debug\MicroTimerStuff.exe.config
+D:\Visual Studio 2012\Projects\MicroTimerStuff\bin\Debug\MicroTimerStuff.exe
+D:\Visual Studio 2012\Projects\MicroTimerStuff\bin\Debug\MicroTimerStuff.pdb
+D:\Visual Studio 2012\Projects\MicroTimerStuff\obj\Debug\MicroTimerStuff.csprojAssemblyReference.cache
+D:\Visual Studio 2012\Projects\MicroTimerStuff\obj\Debug\MicroTimerStuff.Form1.resources
+D:\Visual Studio 2012\Projects\MicroTimerStuff\obj\Debug\MicroTimerStuff.Properties.Resources.resources
+D:\Visual Studio 2012\Projects\MicroTimerStuff\obj\Debug\MicroTimerStuff.csproj.GenerateResource.cache
+D:\Visual Studio 2012\Projects\MicroTimerStuff\obj\Debug\MicroTimerStuff.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2012\Projects\MicroTimerStuff\obj\Debug\MicroTimerStuff.exe
+D:\Visual Studio 2012\Projects\MicroTimerStuff\obj\Debug\MicroTimerStuff.pdb
